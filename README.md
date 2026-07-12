@@ -5,5 +5,4 @@
 ### :space_invader: &nbsp;About Me
 
 👨‍🎓 Computer Science and Engineering Student
-
 👨‍💻 Currently working on Blockchain-based Crowdfunding Platform Project
