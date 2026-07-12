@@ -6,4 +6,4 @@
 
 👨‍🎓 Computer Science and Engineering Student
 
-👨‍💻 I'm currently working on a Blockchain-based Crowdfunding Platform
+👨‍💻 Currently working on Blockchain-based Crowdfunding Platform Project
