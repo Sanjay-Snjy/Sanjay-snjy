@@ -2,8 +2,9 @@
   <img src="assets/banner.gif" width="800" alt="banner">
 </p>
 
-### :space_invader: &nbsp;About Me
+## 👋 &nbsp;Hi, there
 
-👨‍🎓 Computer Science and Engineering Student
+◙ I'm an aspiring Computer Science and Engineering student passionate about software development.
 
-👨‍💻 Currently working on Blockchain-based Crowdfunding Platform Project
+
+◙ Currently working on Blockchain-based Crowdfunding Platform Project
