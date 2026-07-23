@@ -65,4 +65,11 @@
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </td>
   </tr>
+  <tr>
+  <td valign="middle"><b> &nbsp; Cloud Platforms</b></td>
+  <td valign="middle">
+    <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Azure">
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
+  </td>
+</tr>
 </table>
