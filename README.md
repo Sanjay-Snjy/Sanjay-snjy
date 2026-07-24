@@ -5,7 +5,7 @@
 <div align="center">
 
 ❯❯❯❯  “I’m a Computer Science and Engineering student with a solid foundation in software development <br> and a drive to continuously learn and explore new technologies.”
-</div>
+</div> 
 <div align="center">
 <h2>❯❯ 🖳 Tech Stack:</h2>
 <table>
@@ -18,7 +18,6 @@
       <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
     </td>
   </tr>
-
   <tr>
     <td valign="middle"><b> &nbsp; Frontend Development</b></td>
     <td valign="middle">
@@ -28,7 +27,6 @@
       <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
     </td>
   </tr>
-
   <tr>
     <td valign="middle"><b> &nbsp; Backend Development</b></td>
     <td valign="middle">
@@ -36,7 +34,6 @@
       <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
     </td>
   </tr>
-
   <tr>
     <td valign="middle"><b> &nbsp; Databases</b></td>
     <td valign="middle">
@@ -44,7 +41,6 @@
       <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
     </td>
   </tr>
-
   <tr>
     <td valign="middle"><b> &nbsp; Data & Analytics</b></td>
     <td valign="middle">
@@ -53,7 +49,6 @@
       <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" alt="Tableau">
     </td>
   </tr>
-
   <tr>
     <td valign="middle"><b> &nbsp; Version Control</b></td>
     <td valign="middle">
@@ -70,3 +65,15 @@
   </td>
 </tr>
 </table>
+</div> 
+<div align="center">
+ <h2>❯❯ ⚡︎ Current Project:</h2> 
+  # CrowdFund - DApp
+
+<p>
+  <img src="https://raw.githubusercontent.com/Sanjay-Snjy/Crowdfund---DApp/main/assets/demo.gif" alt="CrowdFund Demo" width="800">
+</p>
+
+CrowdFund is a decentralized crowdfunding platform built with Next.js, Solidity, Hardhat, Wagmi, and  <br> RainbowKit. The project allows users to connect a wallet, browse crowdfunding campaigns, create new campaigns, <br>contribute funds, and track campaign activity on-chain.
+
+</div>
