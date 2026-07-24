@@ -2,16 +2,12 @@
   <img src="assets/banner.gif" width="800" alt="banner">
 </p>
 
-## 👋 &nbsp;Hi, there
+<div align="center">
 
-◙ I'm an aspiring Computer Science and Engineering student passionate about software development.
-
-
-◙ Currently working on Blockchain-based Crowdfunding Platform Project
-
-
-
-# Tech Stack:
+❯❯❯❯  “I’m a Computer Science and Engineering student with a solid foundation in software development <br> and a drive to continuously learn and explore new technologies.”
+</div>
+<div align="center">
+<h2>❯❯ 🖳 Tech Stack:</h2>
 <table>
   <tr>
     <td valign="middle"><b> &nbsp; Programming Languages</b></td>
@@ -64,6 +60,7 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
     </td>
+  </div>
   </tr>
   <tr>
   <td valign="middle"><b> &nbsp; Cloud Platforms</b></td>
