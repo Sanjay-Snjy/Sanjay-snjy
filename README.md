@@ -3,26 +3,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./ascii-light.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./ascii-dark.svg">
-  <img
-    src="./ascii-light.svg"
-    width="140"
-    alt="Sanjay ASCII Portrait">
-</picture>
-  
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
     srcset="./wordmark-dark.svg">
   <source
     media="(prefers-color-scheme: light)"
     srcset="./wordmark-light.svg">
   <img
     src="./wordmark-dark.svg"
-    width="420"
+    width="650"
     alt="Sanjay Wordmark">
 </picture>
 </div>
