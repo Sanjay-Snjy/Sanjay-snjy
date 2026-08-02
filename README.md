@@ -1,18 +1,31 @@
 <div align="center">
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="./wordmark-dark.svg">
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="./wordmark-light.svg">
-    <img
-      src="./wordmark-dark.svg"
-      width="750"
-      alt="Sanjay Wordmark">
-  </picture>
-</p>
+<div align="center">
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./ascii-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./ascii-light.svg">
+  <img
+    src="./ascii-dark.svg"
+    width="300"
+    alt="Sanjay ASCII Portrait">
+</picture>
+  
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./wordmark-dark.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./wordmark-light.svg">
+  <img
+    src="./wordmark-dark.svg"
+    width="420"
+    alt="Sanjay Wordmark">
+</picture>
+</div>
 ❯❯❯❯  “I’m an aspiring Computer Science and Engineering student with a solid foundation in software development, <br >driven by curiosity and a passion for continuously learning and exploring new technologies.”
 </div> 
 <div align="center">
