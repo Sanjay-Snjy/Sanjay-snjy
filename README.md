@@ -3,13 +3,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./ascii-dark.svg">
+    srcset="./ascii-light.svg">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./ascii-light.svg">
+    srcset="./ascii-dark.svg">
   <img
-    src="./ascii-dark.svg"
-    width="300"
+    src="./ascii-light.svg"
+    width="140"
     alt="Sanjay ASCII Portrait">
 </picture>
   
