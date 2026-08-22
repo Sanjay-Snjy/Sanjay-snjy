@@ -13,7 +13,7 @@
     alt="Sanjay Wordmark">
 </picture>
 </div>
-❯❯❯❯  “I’m an aspiring Computer Science and Engineering student with a solid foundation in software development, <br >driven by curiosity and a passion for continuously learning and exploring new technologies.”
+ Aspiring Computer Science and Engineering student with a solid foundation in software development, <br >driven by curiosity and a passion for continuously learning and exploring new technologies.”
 </div> 
 <div align="center">
 <h2>❯❯ 🖳 Tech Stack:</h2>
