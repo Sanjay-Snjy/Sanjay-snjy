@@ -61,15 +61,4 @@
   </tr>
 
 </table>
-</div> 
-<div align="center">
- <h2>❯❯ ⚡︎ Current Project:</h2> 
-  # CrowdFund - DApp
 
-<p>
-  <img src="https://raw.githubusercontent.com/Sanjay-Snjy/Crowdfund---DApp/main/assets/demo.gif" alt="CrowdFund Demo" width="800">
-</p>
-
-CrowdFund is a decentralized crowdfunding platform built with Next.js, Solidity, Hardhat, Wagmi, and  <br> RainbowKit. The project allows users to connect a wallet, browse crowdfunding campaigns, create new campaigns, <br>contribute funds, and track campaign activity on-chain.
-
-</div>
