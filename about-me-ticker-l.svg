@@ -1,0 +1,53 @@
+<svg width="100%" viewBox="0 0 860 40" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@700&amp;display=swap');
+
+      .glass-bar {
+        fill: #000000;
+        fill-opacity: 0.02;
+        stroke: #000000;
+        stroke-opacity: 0.1;
+        stroke-width: 1;
+      }
+
+      .tk-txt {
+        font-family: 'JetBrains Mono', monospace;
+        font-size: 9px;
+        font-weight: 700;
+        letter-spacing: 1.5px;
+      }
+
+      .scroll-container {
+        animation: tickerScroll 50s linear infinite;
+      }
+
+      @keyframes tickerScroll {
+        from { transform: translateX(0); }
+        to { transform: translateX(-1880px); }
+      }
+    </style>
+
+    <linearGradient id="tickerGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="25%" stop-color="#000000"/>
+      <stop offset="50%" stop-color="#000000"/>
+      <stop offset="75%" stop-color="#000000"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+
+    <clipPath id="tickerClip">
+      <rect x="5" y="2" width="850" height="36" rx="10" ry="10"/>
+    </clipPath>
+  </defs>
+
+  <rect x="5" y="2" width="850" height="36" rx="10" ry="10" class="glass-bar"/>
+
+  <g clip-path="url(#tickerClip)">
+    <g class="scroll-container">
+      <text x="120" y="23" class="tk-txt" fill="url(#tickerGrad)" textLength="1800" lengthAdjust="spacing">COMPUTER SCIENCE AND ENGINEERING STUDENT WITH A SOLID FOUNDATION IN SOFTWARE DEVELOPMENT, DRIVEN BY CURIOSITY AND A PASSION FOR LEARNING AND EXPLORING NEW TECHNOLOGIES.</text>
+      <text x="2000" y="23" class="tk-txt" fill="url(#tickerGrad)" textLength="1800" lengthAdjust="spacing">COMPUTER SCIENCE AND ENGINEERING STUDENT WITH A SOLID FOUNDATION IN SOFTWARE DEVELOPMENT, DRIVEN BY CURIOSITY AND A PASSION FOR LEARNING AND EXPLORING NEW TECHNOLOGIES.</text>
+      <text x="3880" y="23" class="tk-txt" fill="url(#tickerGrad)" textLength="1800" lengthAdjust="spacing">COMPUTER SCIENCE AND ENGINEERING STUDENT WITH A SOLID FOUNDATION IN SOFTWARE DEVELOPMENT, DRIVEN BY CURIOSITY AND A PASSION FOR LEARNING AND EXPLORING NEW TECHNOLOGIES.</text>
+    </g>
+  </g>
+</svg>
