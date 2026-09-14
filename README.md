@@ -12,9 +12,21 @@
     width="650"
     alt="Sanjay Wordmark">
 </picture>
-</div>
-Computer Science and Engineering student with a solid foundation in software development, <br >driven by curiosity and a passion for continuously learning and exploring new technologies.”
-</div> 
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./about-me-ticker.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./about-me-ticker.svg">
+  <img
+    src="./about-me-ticker.svg"
+    width="650"
+    alt="Sanjay Wordmark">
+</picture>
+
+
 <div align="center">
 <h2>❯❯ 🖳 Tech Stack:</h2>
 
