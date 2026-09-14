@@ -16,12 +16,12 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./about-me-ticker.svg">
+    srcset="./about-me-ticke.svg">
   <source
     media="(prefers-color-scheme: light)"
     srcset="./about-me-ticker-l.svg">
   <img
-    src="./about-me-ticker.svg"
+    src="./about-me-ticke.svg"
     width="650"
     alt="Sanjay Wordmark">
 </picture>
