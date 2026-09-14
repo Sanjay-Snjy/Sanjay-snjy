@@ -19,7 +19,7 @@
     srcset="./about-me-ticker.svg">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="./about-me-ticker.svg">
+    srcset="./about-me-ticker-l.svg">
   <img
     src="./about-me-ticker.svg"
     width="650"
